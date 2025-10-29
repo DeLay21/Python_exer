@@ -14,7 +14,7 @@ jogador2 = jogador("arthur")
 
 jogador1.pontuar(2)
 jogador2.pontuar(3)
-
+    
 
 jogador1.mostrar_ponto()
 jogador2.mostrar_ponto()
